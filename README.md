@@ -62,6 +62,7 @@ Before submitting a mod support request, please make sure that your mod has not 
 | [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets)  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
+| [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed) |  ❌  |  ❌  |  ❌  |  ✅  |  ❓  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 
 ## Screenshots
 
