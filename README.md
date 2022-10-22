@@ -63,6 +63,10 @@ Before submitting a mod support request, please make sure that your mod has not 
 | [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets)  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed) |  ❌  |  ❌  |  ❌  |  ✅  |  ❓  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) |  ❓  |  ❓  |  ❓  |  ✅  |  ❓  |  ❓  |  ❓  |  ❓  |  ❓  |  ❓  |  ❓  |  ❓  |  ❓  |  ❓  |  ❌  |
+| [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge) |  ❓  |  ❓  |  ❓  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |
+
+❓ = Untested, however it's just png files so as long as the GUIs where not updated or changed from the versions I did make and test on then they should work fine.
 
 ## Screenshots
 
